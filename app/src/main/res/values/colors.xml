@@ -1,0 +1,13 @@
+<resources>
+    <color name="editor_bg">#FF1E1E1E</color>
+    <color name="bar_bg">#FF252526</color>
+    <color name="divider">#FF2D2D2D</color>
+    <color name="editor_text">#FFD4D4D4</color>
+    <color name="muted">#FF7A7A7A</color>
+    <color name="accent">#FF4FC1FF</color>
+    <color name="selection">#FF264F78</color>
+
+    <color name="colorPrimary">#FF252526</color>
+    <color name="colorPrimaryDark">#FF1E1E1E</color>
+    <color name="colorAccent">#FF4FC1FF</color>
+</resources>
