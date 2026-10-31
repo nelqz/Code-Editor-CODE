@@ -5,3 +5,4 @@ download at releases.
 
 if you're still in doubt scan it.
 https://www.virustotal.com/gui/home/upload
+or you can download the app source.zip in releases.
